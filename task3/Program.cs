@@ -1,6 +1,4 @@
-﻿using System.Text.RegularExpressions;
-
-namespace task_3
+﻿namespace task_3
 {
     class Program
     {
